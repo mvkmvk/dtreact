@@ -1,0 +1,22 @@
+body {
+  background-color: #7ed6df;
+}
+
+#titel{
+  color: #f5f6fa;
+}
+
+#inputKlein{
+  width: 25px;
+  height: 25px;
+}
+
+.flexbox-container {
+  display: flex;
+  flex-direction: row;
+}
+
+button {
+  width: 50px;
+  height: 30px;
+}
